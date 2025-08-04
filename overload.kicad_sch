@@ -3515,7 +3515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 145.542 124.46 90)
 			(effects
 				(font
@@ -3585,7 +3585,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 223.012 99.06 90)
 			(effects
 				(font
@@ -3822,7 +3822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 214.122 45.72 90)
 			(effects
 				(font
@@ -3962,7 +3962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.062 96.52 90)
 			(effects
 				(font
@@ -4032,7 +4032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 94.2848 96.52 0)
 			(effects
 				(font
@@ -4167,7 +4167,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 99.06 71.4248 0)
 			(effects
 				(font
@@ -4501,7 +4501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NE5532DR:D8"
 			(at 118.11 96.52 0)
 			(effects
 				(font
@@ -4587,7 +4587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 85.09 109.728 90)
 			(effects
 				(font
@@ -4657,7 +4657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 153.162 58.42 90)
 			(effects
 				(font
@@ -4926,7 +4926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.062 83.82 90)
 			(effects
 				(font
@@ -5097,7 +5097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NE5532DR:D8"
 			(at 43.18 123.19 0)
 			(effects
 				(font
@@ -5125,28 +5125,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "f4a27a8e-eb42-47fe-9ebc-6f18a2f7c39a")
+			(uuid "f4a27a8e-eb42-47fe-9ebc-6f18a2f7c39b")
 		)
 		(pin "3"
-			(uuid "8bea7e1c-6f33-40e8-9d35-7dec2d95a540")
+			(uuid "8bea7e1c-6f33-40e8-9d35-7dec2d95a541")
 		)
 		(pin "1"
-			(uuid "01991f0a-b9a1-4e5b-8e0a-7211067826f3")
+			(uuid "01991f0a-b9a1-4e5b-8e0a-7211067826f4")
 		)
 		(pin "4"
-			(uuid "6b4f3dd3-86d2-4c53-877a-cf16877556cc")
+			(uuid "6b4f3dd3-86d2-4c53-877a-cf16877556cd")
 		)
 		(pin "5"
-			(uuid "95c377a7-cd08-4ba0-b1f2-36cdd3e5fe6c")
+			(uuid "95c377a7-cd08-4ba0-b1f2-36cdd3e5fe6d")
 		)
 		(pin "7"
-			(uuid "229196ee-3ef2-4ec6-9ed5-056f46754af4")
+			(uuid "229196ee-3ef2-4ec6-9ed5-056f46754af5")
 		)
 		(pin "6"
-			(uuid "7b473389-4f5d-4ea3-9633-10c58d8d6d88")
+			(uuid "7b473389-4f5d-4ea3-9633-10c58d8d6d89")
 		)
 		(pin "2"
-			(uuid "a073f572-de19-4cbd-a912-659834443ac9")
+			(uuid "a073f572-de19-4cbd-a912-659834443aca")
 		)
 		(instances
 			(project ""
@@ -5183,7 +5183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 85.09 84.328 90)
 			(effects
 				(font
@@ -5253,7 +5253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 197.612 125.73 90)
 			(effects
 				(font
@@ -5323,7 +5323,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 223.012 86.36 90)
 			(effects
 				(font
@@ -5560,7 +5560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 136.652 78.74 90)
 			(effects
 				(font
@@ -5703,7 +5703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 257.302 93.98 90)
 			(effects
 				(font
@@ -5873,7 +5873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.052 86.36 90)
 			(effects
 				(font
@@ -5943,7 +5943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 93.472 90.17 90)
 			(effects
 				(font
@@ -6113,7 +6113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.052 124.46 90)
 			(effects
 				(font
@@ -6183,7 +6183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 257.302 86.36 90)
 			(effects
 				(font
@@ -6421,7 +6421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 105.41 84.328 90)
 			(effects
 				(font
@@ -6491,7 +6491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 145.542 86.36 90)
 			(effects
 				(font
@@ -6561,7 +6561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 169.672 102.87 90)
 			(effects
 				(font
@@ -7001,7 +7001,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NE5532DR:D8"
 			(at 63.5 93.98 0)
 			(effects
 				(font
@@ -7029,28 +7029,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "f4a27a8e-eb42-47fe-9ebc-6f18a2f7c39a")
+			(uuid "f4a27a8e-eb42-47fe-9ebc-6f18a2f7c39c")
 		)
 		(pin "3"
-			(uuid "8bea7e1c-6f33-40e8-9d35-7dec2d95a540")
+			(uuid "8bea7e1c-6f33-40e8-9d35-7dec2d95a542")
 		)
 		(pin "1"
-			(uuid "01991f0a-b9a1-4e5b-8e0a-7211067826f3")
+			(uuid "01991f0a-b9a1-4e5b-8e0a-7211067826f5")
 		)
 		(pin "4"
-			(uuid "6b4f3dd3-86d2-4c53-877a-cf16877556cc")
+			(uuid "6b4f3dd3-86d2-4c53-877a-cf16877556ce")
 		)
 		(pin "5"
-			(uuid "95c377a7-cd08-4ba0-b1f2-36cdd3e5fe6c")
+			(uuid "95c377a7-cd08-4ba0-b1f2-36cdd3e5fe6e")
 		)
 		(pin "7"
-			(uuid "229196ee-3ef2-4ec6-9ed5-056f46754af4")
+			(uuid "229196ee-3ef2-4ec6-9ed5-056f46754af6")
 		)
 		(pin "6"
-			(uuid "7b473389-4f5d-4ea3-9633-10c58d8d6d88")
+			(uuid "7b473389-4f5d-4ea3-9633-10c58d8d6d8a")
 		)
 		(pin "2"
-			(uuid "a073f572-de19-4cbd-a912-659834443ac9")
+			(uuid "a073f572-de19-4cbd-a912-659834443acb")
 		)
 		(instances
 			(project ""
@@ -7451,7 +7451,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 177.8 98.298 90)
 			(effects
 				(font
@@ -7794,7 +7794,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 214.122 125.73 90)
 			(effects
 				(font
@@ -8062,7 +8062,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 105.41 109.728 90)
 			(effects
 				(font
@@ -8132,7 +8132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 206.502 67.31 90)
 			(effects
 				(font

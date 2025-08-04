@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NE5532DR")(type "KiCad")(uri "${KIPRJMOD}/libs/NE5532DR/2025-08-04_08-10-05.kicad_sym")(options "")(descr ""))
+)
