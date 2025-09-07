@@ -1577,6 +1577,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 93.98) (xy 49.53 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4666a584-6bd5-4416-b9f4-989f3b243c46")
+	)
+	(wire
+		(pts
 			(xy 161.29 27.94) (xy 161.29 29.21)
 		)
 		(stroke
@@ -1687,6 +1697,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 80.01) (xy 49.53 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f016cc80-0638-4bca-a27b-a0c9e43adf0d")
+	)
+	(wire
+		(pts
 			(xy 176.53 83.82) (xy 176.53 85.09)
 		)
 		(stroke
@@ -1752,6 +1772,71 @@
 			)
 		)
 		(uuid "80f1301e-df31-4b87-8ec0-f7069db40a67")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 49.53 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "02b116ec-8f62-4023-b1ce-94f1d64886a8")
+		(property "Reference" "#PWR016"
+			(at 49.53 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 49.53 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 49.53 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c3cdc22-3d73-4ca2-b452-fe9c36ecfac2")
+		)
+		(instances
+			(project "overload"
+				(path "/113207a7-390c-4dda-b902-7923a2c1c4b8"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioPlug2")
@@ -2654,6 +2739,71 @@
 			)
 		)
 	)
+	(symbol
+		(lib_id "power:GND")
+		(at 49.53 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f86cb671-78cc-411c-93d6-f6442c34ef43")
+		(property "Reference" "#PWR015"
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 49.53 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2aff69c6-f30a-4420-9af5-680f1588d2ca")
+		)
+		(instances
+			(project ""
+				(path "/113207a7-390c-4dda-b902-7923a2c1c4b8"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet
 		(at 92.71 72.39)
 		(size 35.56 16.51)
@@ -2762,7 +2912,7 @@
 			)
 			(uuid "f9f405bf-5515-4cc4-951b-58798d28726e")
 		)
-		(pin "ch2_out" output
+		(pin "mixer_out" output
 			(at 87.63 81.28 0)
 			(effects
 				(font

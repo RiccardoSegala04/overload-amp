@@ -728,7 +728,7 @@
 		)
 		(uuid "6f554a9b-91bd-4d0c-892e-da3bbd162c58")
 	)
-	(hierarchical_label "ch2_out"
+	(hierarchical_label "mixer_out"
 		(shape output)
 		(at 137.16 62.23 0)
 		(effects
