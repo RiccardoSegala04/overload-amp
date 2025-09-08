@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\users\riccards\Desktop\Projects\electronics\overload-amp\spice\amp.net
-Start Time: Sun Sep  7 21:59:46 2025
+Start Time: Mon Sep  8 11:38:29 2025
 solver = Normal
 Maximum thread count: 4
 tnom = 27
@@ -26,7 +26,7 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.362 seconds.
+Total elapsed time: 0.793 seconds.
 
 Files loaded:
 C:\users\riccards\Desktop\Projects\electronics\overload-amp\spice\amp.net
