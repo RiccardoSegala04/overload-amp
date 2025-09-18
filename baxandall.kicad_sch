@@ -1045,7 +1045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 85.09 53.848 90)
 			(effects
 				(font
@@ -1183,7 +1183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NE5532DR:D8"
+		(property "Footprint" "NE5532DR:D8-M"
 			(at 118.11 66.04 0)
 			(effects
 				(font
@@ -1271,7 +1271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 93.472 59.69 90)
 			(effects
 				(font
@@ -1479,7 +1479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 105.41 53.848 90)
 			(effects
 				(font
@@ -1614,7 +1614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 105.41 79.248 90)
 			(effects
 				(font
@@ -1749,7 +1749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 85.09 79.248 90)
 			(effects
 				(font

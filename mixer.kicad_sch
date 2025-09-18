@@ -775,7 +775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NE5532DR:D8"
+		(property "Footprint" "NE5532DR:D8-M"
 			(at 106.68 62.23 0)
 			(effects
 				(font

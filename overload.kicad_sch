@@ -2067,7 +2067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "NE5532DR:D8"
+		(property "Footprint" "NE5532DR:D8-M"
 			(at 67.31 29.21 0)
 			(effects
 				(font
@@ -2359,7 +2359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 181.61 86.36 0)
 			(effects
 				(font
@@ -2492,7 +2492,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 179.07 29.21 0)
 			(effects
 				(font
@@ -2625,7 +2625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 171.45 30.988 90)
 			(effects
 				(font
@@ -2694,7 +2694,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-03P_1x03_P5.00mm"
 			(at 36.83 30.48 0)
 			(effects
 				(font
@@ -2960,7 +2960,7 @@
 				(justify left top)
 			)
 		)
-		(pin "audio_out" output
+		(pin "amp_out" output
 			(at 167.64 81.28 0)
 			(effects
 				(font
@@ -2970,7 +2970,7 @@
 			)
 			(uuid "cbedd863-5a68-4f60-a527-a7a5f6163c35")
 		)
-		(pin "audio_in" input
+		(pin "amp_in" input
 			(at 133.35 81.28 180)
 			(effects
 				(font
