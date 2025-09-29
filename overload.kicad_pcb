@@ -1913,6 +1913,7 @@
 			(drill oval 2 4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net 2 "GND")
 			(uuid "2bceafd4-519e-437b-a81b-55f70fccb08e")
 		)
 		(pad "1" thru_hole oval
@@ -1921,6 +1922,7 @@
 			(drill oval 2 4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net 2 "GND")
 			(uuid "be52fb69-f36b-4818-90d6-01c76367242b")
 		)
 		(pad "2" thru_hole oval
@@ -1929,6 +1931,7 @@
 			(drill oval 2 4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net 2 "GND")
 			(uuid "a2e1165c-a570-44e1-9cef-bc2a754ea62c")
 		)
 		(pad "2" thru_hole oval
@@ -1937,6 +1940,7 @@
 			(drill oval 2 4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net 2 "GND")
 			(uuid "944acc71-affc-461b-a693-cd771c9c9e54")
 		)
 		(pad "3" thru_hole oval
@@ -1945,6 +1949,7 @@
 			(drill oval 2 4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net 2 "GND")
 			(uuid "b1d5c71d-3670-495c-aa74-41e4de46a3ae")
 		)
 		(pad "3" thru_hole oval
@@ -1953,6 +1958,7 @@
 			(drill oval 2 4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net 38 "/Mixer/ch2_in")
 			(uuid "71977238-475c-43a2-9c11-7ec1f93a9051")
 		)
 	)
@@ -13099,7 +13105,11 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R15"
+<<<<<<< HEAD
 			(at 3.81 -2.37 90)
+=======
+			(at 3.81 -2.37 0)
+>>>>>>> 60b8b4dc3fcc23aab9ba37d025248672565bcc98
 			(layer "F.SilkS")
 			(uuid "d5ee67aa-1e88-41e7-b330-cb7fcba00ae9")
 			(effects
@@ -13110,7 +13120,11 @@
 			)
 		)
 		(property "Value" "R"
+<<<<<<< HEAD
 			(at 3.81 2.37 90)
+=======
+			(at 3.81 2.37 0)
+>>>>>>> 60b8b4dc3fcc23aab9ba37d025248672565bcc98
 			(layer "F.Fab")
 			(uuid "955c0185-3cae-487d-aeab-93076c50e294")
 			(effects
@@ -13325,7 +13339,11 @@
 			(uuid "d969f9a4-8ec8-4a4a-8557-fc834bd14cbe")
 		)
 		(fp_text user "${REFERENCE}"
+<<<<<<< HEAD
 			(at 3.81 0 90)
+=======
+			(at 3.81 0 0)
+>>>>>>> 60b8b4dc3fcc23aab9ba37d025248672565bcc98
 			(layer "F.Fab")
 			(uuid "de910ce7-209e-4400-ade3-1e2086b198ab")
 			(effects
