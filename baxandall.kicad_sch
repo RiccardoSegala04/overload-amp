@@ -1000,6 +1000,7 @@
 	(hierarchical_label "eq_in"
 		(shape input)
 		(at 63.5 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1011,6 +1012,7 @@
 	(hierarchical_label "eq_out"
 		(shape output)
 		(at 140.97 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1338,7 +1340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal"
 			(at 95.25 52.07 0)
 			(effects
 				(font
@@ -1408,7 +1410,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal"
 			(at 95.25 77.47 0)
 			(effects
 				(font
