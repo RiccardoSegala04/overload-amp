@@ -5,4 +5,5 @@
   (lib (name "2N5401")(type "KiCad")(uri "${KIPRJMOD}/libs/2N5401")(options "")(descr ""))
   (lib (name "2N3055AG")(type "KiCad")(uri "${KIPRJMOD}/libs/2N3055AG/footprints.pretty")(options "")(descr ""))
   (lib (name "D44H8")(type "KiCad")(uri "${KIPRJMOD}/libs/D44H8/footprints.pretty")(options "")(descr ""))
+  (lib (name "TRS625")(type "KiCad")(uri "${KIPRJMOD}/libs/Custom TRS/TRS625.pretty")(options "")(descr ""))
 )
