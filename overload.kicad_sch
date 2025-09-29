@@ -2218,7 +2218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TRS625:325 jack"
 			(at 39.37 91.44 0)
 			(effects
 				(font
