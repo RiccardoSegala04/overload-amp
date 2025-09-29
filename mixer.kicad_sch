@@ -720,6 +720,7 @@
 	(hierarchical_label "ch1_in"
 		(shape input)
 		(at 62.23 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -731,6 +732,7 @@
 	(hierarchical_label "mixer_out"
 		(shape output)
 		(at 137.16 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -742,6 +744,7 @@
 	(hierarchical_label "ch2_in"
 		(shape input)
 		(at 62.23 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -861,7 +864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal"
 			(at 90.17 62.23 0)
 			(effects
 				(font
@@ -931,7 +934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal"
 			(at 107.95 46.99 0)
 			(effects
 				(font
@@ -1002,7 +1005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal"
 			(at 91.44 46.99 0)
 			(effects
 				(font
