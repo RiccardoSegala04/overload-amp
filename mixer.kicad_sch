@@ -720,7 +720,6 @@
 	(hierarchical_label "ch1_in"
 		(shape input)
 		(at 62.23 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -732,7 +731,6 @@
 	(hierarchical_label "mixer_out"
 		(shape output)
 		(at 137.16 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -744,7 +742,6 @@
 	(hierarchical_label "ch2_in"
 		(shape input)
 		(at 62.23 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -778,7 +775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NE5532DR:D8-M"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 106.68 62.23 0)
 			(effects
 				(font

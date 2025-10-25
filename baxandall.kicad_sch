@@ -1000,7 +1000,6 @@
 	(hierarchical_label "eq_in"
 		(shape input)
 		(at 63.5 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1012,7 +1011,6 @@
 	(hierarchical_label "eq_out"
 		(shape output)
 		(at 140.97 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1117,7 +1115,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 94.2848 66.04 0)
 			(effects
 				(font
@@ -1185,7 +1183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NE5532DR:D8-M"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 118.11 66.04 0)
 			(effects
 				(font
@@ -1548,7 +1546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 99.06 40.9448 0)
 			(effects
 				(font

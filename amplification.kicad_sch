@@ -2651,7 +2651,6 @@
 	)
 	(label "amp_out_fb"
 		(at 130.81 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2662,7 +2661,6 @@
 	)
 	(label "amp_out_fb"
 		(at 254 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2674,7 +2672,6 @@
 	(hierarchical_label "amp_in"
 		(shape input)
 		(at 34.29 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2686,7 +2683,6 @@
 	(hierarchical_label "amp_out"
 		(shape output)
 		(at 266.7 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3128,7 +3124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 138.1252 127 0)
 			(effects
 				(font
